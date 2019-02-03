@@ -8,7 +8,7 @@ library(jpeg)
 mona <- readJPEG("./Gray-Scale-Mona-Lisa.jpg")
 bw <- prcomp(mona[,,1], center = FALSE)
 
-# Define server logic required to draw a histogram
+
 shinyServer(function(input, output) {
    
   output$image <- renderImage({
