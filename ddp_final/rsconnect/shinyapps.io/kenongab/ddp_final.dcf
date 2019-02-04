@@ -1,0 +1,12 @@
+name: ddp_final
+title: ddp_final
+username:
+account: kenongab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 685688
+bundleId: 1853343
+url: https://kenongab.shinyapps.io/ddp_final/
+when: 1549216149.9905
+asMultiple: FALSE
+asStatic: FALSE
